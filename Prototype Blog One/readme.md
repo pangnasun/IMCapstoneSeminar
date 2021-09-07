@@ -4,7 +4,7 @@
 For my first prototype, I used an existing model of Angkor Wat to represent what my final capstone project might look like. I used this model to create a virtual place to virtually teleport users back in time to when Angkor Wat was constructed. Players will embark on an adventure to discover various untold stories regarding this ancient temple and its people. Various parts of this place contain different scenes and stories that players can interact with. For example, players might come across a dragon as they are traveling in a boat around the temple (see images below). The players will have options to avoid or interact with this dragon to figure out its back story. As players interact and learn these stories, they gain a deeper understanding of the culture of the people during this era.
 
 
-This project is inspired by my personal connection to this place. Growing up, I have heard so many myths and storeis regarding this monument. Thus, I always want to know what it was like to live during that time. This project will provide me with an opportunity to collect and compile stories to create a personal narrative for this place. 
+This project is inspired by my personal connection to this place. Growing up, I have heard so many myths and storeis regarding this monument. Thus, I always want to know what it was like to live during that time. This project will provide me with an opportunity to collect and compile stories to create a personal narrative for this place.
 
 
 

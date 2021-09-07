@@ -1,7 +1,9 @@
 # Prototype One: Back to the Acient Time
 
 ## Description
-Through Augmented Reality and Virtual Reality, the audience will be brought back in time to ancient Angkor Wat, a prominent monument of the Khmer Empire. 
+Through Augmented Reality and Virtual Reality, the audience will be teleported in time to ancient Angkor Wat, a prominent monument of the Khmer Empire. They will embark on an adventure to discover various untold stories regarding this ancient temple. The users can navigate around 
+
+This project is inspired by my personal connection to this place. I always want to know what it was like to live during that time. There are so many myths and stories regarding this place
 
 
 

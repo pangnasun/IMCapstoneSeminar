@@ -1,7 +1,7 @@
 # Prototype One: Back to the Acient Time
 
 ## Description
-
+Through Augmented Reality and Virtual Reality, the audience will be brought back in time to ancient Angkor Wat, a prominent monument of the Khmer Empire. 
 
 
 

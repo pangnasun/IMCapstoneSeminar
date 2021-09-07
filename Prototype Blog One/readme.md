@@ -32,5 +32,5 @@
 *Mystical Creature Scene*
 
 ![](images/boats.png)
-*Daily Life Scene*
+*Boat Racing Scene*
 

@@ -12,5 +12,5 @@
 <img src="images/dragon.png" width="800" height="434">
 <img src="images/boats.png" width="800" height="434">
 
-![](images/overview.png width="800" height="434")
+![](images/overview.png)
 *Overview*

@@ -1,7 +1,7 @@
 # Prototype Two: 
 
 
-Building upon my previous prototype, I started 
+When presenting my first prototype, 
 
 
 

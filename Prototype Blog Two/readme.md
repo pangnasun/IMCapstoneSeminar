@@ -1,7 +1,7 @@
 # Prototype Two: 
 
 
-When presenting my first prototype, 
+Building upon my first prototype, I started working on the interaction and animation parts of my capstone project. 
 
 
 
@@ -11,5 +11,7 @@ When presenting my first prototype,
 <img src="images/bas_relief.jpeg">
 
 <img src="images/daily.png">
+
+I also consider how detailed 
 <img src="images/angkor1.jpg">
 <img src="images/angkor2.jpg">

@@ -7,10 +7,13 @@ Initially, I thought that players will be just observers. They will have the fre
 
 
 
+## Stories
+I was figuring out stories that I want to animate, so players can watch and interact with. I tried to remember stories told to me by my grandmother, parents, and elders. I also talked to my friends and did some research to find intriguing stories that could capture players' attention.
 
-
-<img src="images/naga1.png">
+### Naga: Giant Serpents
 <img src="images/naga2.jpeg" width=400 height=533 >
+<img src="images/naga1.png">
+
 <img src="images/nagamodel.jpeg" >
 <img src="images/bas_relief.jpeg">
 

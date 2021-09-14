@@ -16,7 +16,7 @@ Above is an image of a sculptures of a seven-headed naga, a giant mythical serpe
 <br/><br/> 
 
 <img src="images/naga1.png">
-There are many great tales regarding these giant serpents in relation to Angkor Wat. My grandmother told 
+There are many great tales regarding these giant serpents in relation to Angkor Wat. My grandmother told that they used to roam around the temple to protect from enemies' invasion. She said that although we do not see them around us now, they still exist spiritually in the sculpures. 
 <br/><br/> 
 
 <img src="images/nagamodel.jpeg" >

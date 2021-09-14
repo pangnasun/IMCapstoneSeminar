@@ -20,6 +20,8 @@ There are many great tales regarding these giant serpents in relation to Angkor 
 <br/><br/> 
 
 <img src="images/nagamodel.jpeg" >
+To implement these tales into my project, I plan to create a 3D model of a naga (like the one above) so I can add animation to it. For example, when players arrive at the entrance of Angkor Wat, stone scuptures of nagas become alive and judge players' souls through series of questions. If players answered all the questions correctly, they would be granted access to the temple and able to explore further. Else, they would have to retreat or face the wrath of these giant snakes.
+
 <img src="images/bas_relief.jpeg">
 
 <img src="images/daily.png">

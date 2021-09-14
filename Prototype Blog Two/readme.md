@@ -24,8 +24,9 @@ To implement these tales into my project, I plan to create a 3D model of a naga 
 <br/><br/> 
 
 <!-- <img src="images/bas_relief.jpeg"> -->
-### Living in the area
+### Daily Life
 <img src="images/daily.png">
+I always try to imagine what it was like living in that era. I heard stories of how people moved around with giant elephants.
 
 I also consider how detailed 
 <img src="images/angkor1.jpg">

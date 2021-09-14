@@ -30,6 +30,6 @@ Another things that I want players to experience is the daily lives of people du
 <br/><br/> 
 <img src="images/daily2.jpeg">
 
-These images are taken from [Virtual Angkor Project](https://www.virtualangkor.com/), which created a virtual simulation of Angkor Wat and its people. 
+These images are taken from [Virtual Angkor Project](https://www.virtualangkor.com/), which created a virtual simulation of Angkor Wat and its people. The simulation gave me a visual of what my capstone project will look like and of how it will look different from this. For instance, the simulation focused only on telling the history of Angkor Wat and its people, which is quite informative.  
 <img src="images/angkor1.jpg">
 <img src="images/angkor2.jpg">

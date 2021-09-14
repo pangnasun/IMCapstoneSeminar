@@ -10,7 +10,7 @@ Initially, I thought that players will be just observers. They will have the fre
 
 
 <img src="images/naga1.png">
-<img src="images/naga2.jpeg" width="800" height="1067"/>
+<img src="images/naga2.jpeg" width=800 height=1067>
 <img src="images/nagamodel.jpeg" >
 <img src="images/bas_relief.jpeg">
 

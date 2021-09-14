@@ -30,6 +30,6 @@ Another things that I want players to experience is the daily lives of people du
 <br/><br/> 
 <img src="images/daily2.jpeg">
 
-These images are taken from [Virtual Angkor Project](https://github.com/pangnasun/RobotaPsyche/tree/main/finalProject_Updated), which created a virtual simulation of Angkor Wat and its people. 
+These images are taken from [Virtual Angkor Project](https://https://www.virtualangkor.com/), which created a virtual simulation of Angkor Wat and its people. 
 <img src="images/angkor1.jpg">
 <img src="images/angkor2.jpg">

@@ -1,4 +1,4 @@
-# Prototype Two: 
+# Prototype Two: Angkor Wat Stories and Modeling
 
 For my second prototype, I focused on the interaction and animation aspects of my capstone project. My first prototype mainly focused on the layout and the space of my overall project. Thus, when I was presenting my first prototype, people admired how things looked but they had questions regarding how players will interact with the spaces and characters. For example, when people saw the scene of the temple with a dragon, they wondered what players will do with that dragon. Will they fight the dragon or just passively observe what's happening around them? I needed to ponder this question deeply because the role of players in this simulation/game is essential to the narrative of the place.
 
@@ -16,7 +16,7 @@ Above is an image of a sculptures of a seven-headed naga, a giant mythical serpe
 <br/><br/> 
 
 <img src="images/naga1.png">
-There are many great tales regarding these giant serpents in relation to Angkor Wat. My grandmother told that they used to roam around the temple to protect from enemies' invasion. She said that although we do not see them around us now, they still exist spiritually in the sculpures. 
+There are many great tales regarding these giant serpents in relation to Angkor Wat. My grandmother told that they used to roam around the temple to protect from enemies' invasion. She said that although we do not see them around us now, they still exist spiritually in the sculptures. 
 <br/><br/> 
 
 <img src="images/nagamodel.jpeg" >

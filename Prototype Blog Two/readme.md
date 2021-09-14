@@ -27,6 +27,7 @@ To implement these tales into my project, I plan to create a 3D model of a naga 
 ### Daily Life
 <img src="images/daily.png">
 Another things that I want players to experience is the daily lives of people during that time. Growing up, I always try to imaginge what it was like living in that era. I heard stories of how people moved around with giant elephants, made masterful crafts by hands, and constructed Angkor Wat stone by stone. 
+<img src="images/daily2.jpeg">
 
 These images are taken from [Virtual Angkor Project](https://github.com/pangnasun/RobotaPsyche/tree/main/finalProject_Updated) which created a virtual simulation of Angkor Wat and its people. 
 <img src="images/angkor1.jpg">

@@ -14,6 +14,7 @@ I was figuring out stories that I want to animate, so players can watch and inte
 <img src="images/naga2.jpeg" width=400 height=533 >
 Above is an image of a sculptures of a seven-headed naga, a giant mythical serpent that guards the entrance to the Angkor Wat Temple. They represent the guardians of the temple who prevent intruders from entering the temple. 
 <img src="images/naga1.png">
+There are tales of these giant serpents roaming around the temple during ancient time. 
 
 <img src="images/nagamodel.jpeg" >
 <img src="images/bas_relief.jpeg">

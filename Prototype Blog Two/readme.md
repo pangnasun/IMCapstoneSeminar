@@ -33,8 +33,7 @@ Another things that I want players to experience is the daily lives of people du
 These images are taken from [Virtual Angkor Project](https://www.virtualangkor.com/), which created a virtual simulation of Angkor Wat and its people. The simulation gave me a visual of what my capstone project will look like and of how it will look different from this. For instance, the simulation focused only on telling the history of Angkor Wat and its people, which is quite informative. My project will build upon this by allowing players to experience living there through Virtual Reality. Players will see things through the eyes of Angkorian people (using VR to switch from third-person perspective to first-person perspective). 
 
 ## Modeling
-The website also provides images of complex models of Angkor Wat (images below). This makes me start to consider how detailed I want my model of Angkor Wat to be. It would be amazing to be able to create such a complicated model, but that is not the focus of my project. 
+The website also provides images of complex models of Angkor Wat (images below). This makes me start to consider how detailed I want my model of Angkor Wat to be. I don't think my model of Angkor Wat should be this detailed because my main focus is the narrative of this place. 
 
-It would be nice to have access to this model. 
 <img src="images/angkor1.jpg">
 <img src="images/angkor2.jpg">

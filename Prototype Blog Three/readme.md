@@ -11,10 +11,7 @@ The secret behind the construction of Angkor Wat is it was built on a magical lo
 Lotus flowers are commonly used in bas reliefs and traddional dances to signify their importance in our culture. They symbolize purity, enlightenment, and divinity. 
 
 <br/><br/> 
-
 <!-- <img src="images/entrance.png" width="800" height="434"> -->
-
-
 ## The Watcher
 
 <img src="images/taReach.jpeg" width="600" height="1079">

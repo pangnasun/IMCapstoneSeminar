@@ -12,7 +12,7 @@ Lotus flowers are commonly used in bas reliefs and traddional dances to signify 
 
 <br/><br/> 
 
-<img src="images/entrance.png" width="800" height="434">
+<!-- <img src="images/entrance.png" width="800" height="434"> -->
 
 
 ## The Watcher

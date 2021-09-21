@@ -12,7 +12,7 @@ Angkor Wat is surrounded by
 
 ## The Watcher
 
-<img src="images/taReach.jpeg" width="800" height="1439">
+<img src="images/taReach.jpeg" width="600" height="1079">
 My mother, on the other hand, knows several stories of her own. The one that she keeps telling us is the story of the Watcher whose statue is located at one of the entrances of Angkor Wat. He is known as the Watcher because he sees and knows everything that is happening in the universe. People would come to pray to him to watch over and keep them them as they travel to far away places. My mother would always bring me to pray to him before I went back home and when I flew back to school.
 
 <img src="images/genshin.jpeg">

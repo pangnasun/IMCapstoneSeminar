@@ -3,7 +3,7 @@
 Last Friday, I was doing my weekly Skype with my family and, unintentionally but naturally, the topic of Angkor Wat came into our conversation. Initially, we were talking about how the Covid pandemic made the tourism back home look very dire. Since Angkor Wat is a big part of tourism, we could not avoid including the name in our conversation. However, the conversation took a sudden turn when my father switched from talking about the current Covid situation to talking about how Angkor Wat has been able to stand until today. So the tale of how Angkor Wat was built and how it is still able to withstand time and destruction begins:
 
 ## Myth of the Magical Lotus Leaf
-"
+The secret behind the construction of Angkor Wat is it was built on a magical lotus leaf. My father pointed out that Angkor Wat is surrounded by water, but the rise and fall of the water does not make the temple collapse. The reason is the temple is built on a magical loust leaf that can float on water and is not affected by changes in the water level. 
 
 <img src="images/lotus1.jpeg">
 

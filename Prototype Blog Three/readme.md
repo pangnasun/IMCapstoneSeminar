@@ -6,7 +6,8 @@ Last Friday, I was doing my weekly Skype with my family and, unintentionally but
 Angkor Wat is surrounded by 
 
 <img src="images/lotus1.jpeg">
-<img src="images/lotus2.jpeg">
+
+<img src="images/lotus2.jpeg" width="800" height="434">
 
 
 ## The Watcher

@@ -8,9 +8,9 @@ The secret behind the construction of Angkor Wat is it was built on a magical lo
 <br/><br/> 
 
 <img src="images/lotus1.jpeg">
-Lo
+Lotus flowers are commonly used in bas reliefs and traddional dances to signify their importance in our culture. 
 
-
+<br/><br/> 
 
 
 <img src="images/entrance.png" width="800" height="434">

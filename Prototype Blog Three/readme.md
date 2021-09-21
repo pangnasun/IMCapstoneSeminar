@@ -7,7 +7,7 @@ Angkor Wat is surrounded by
 
 <img src="images/lotus1.jpeg">
 
-<img src="images/lotus2.jpeg" width="800" height="434">
+<img src="images/lotus2.jpeg" width="800" height="611">
 
 
 ## The Watcher

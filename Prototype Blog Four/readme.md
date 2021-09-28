@@ -5,10 +5,7 @@ For this week prototype, I was working on my father's favorite myth about Angkor
 
 Talking about his life during and after the Khmer Rouge era has never been easy because it is unimaginable what kinds of horror he went through. It was the darkest time in Cambodian history where a mass genocide of 2 million people happened. People were killed, starved and overworked to death. Some died from illness and malnutrition. My father told me how fortunate he was to survive through all of these terrors. When this regime immediately ended, his life was still in peril. Peace had not been established, so fighting between soldiers and militants happpened every day. Thus, when my father traveled to far away places, his life hung on a thread. He told stories of how he could feel bullets fly around him when shootings happened around him and he was only "the width of a hair" from death. He told me stories of his boat capsized in the middle of a thunderstorm, but he managed to survive that. When he was in those dangers, he would find himself chanting mythic runes that he knew to protect him. 
 
-To my father, the myths and stories were and still are an important part of his life. He were able to survive through those dangers because he believes that magical power is left behind by our ancestors to protect us. Like me, I think that he also believes that he could be the person who is worthy of posessing the sword and the armor. 
-
-
-
+To my father, the myths and stories were and still are an important part of his life. He were able to survive through those dangers because he believes that magical power is left behind by our ancestors to protect us. Like me, I think he also believes that he could be the person who is worthy of posessing the sword and the armor. When all seemed lost, these myths and stories allowed him to dream and hope.
 
 
 

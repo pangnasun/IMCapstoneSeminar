@@ -1,5 +1,5 @@
-# IM Capstone Seminar
-Weclome to my IM Capstone blogs
+# Interactive Media Capstone Seminar
+Weclome to my Interactive Media Capstone blogs!
 
 
 ## Biography:

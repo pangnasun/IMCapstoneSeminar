@@ -10,7 +10,7 @@ To my father, the myths and stories were and still are an important part of his 
 
 
 ## Working with Unity
-I used existing to create a prototype of what the hidden sword and armor scene could look like. 
+I used existing assets to create a prototype of what the hidden sword and armor scene could look like. 
 
 <img src="images/entrance1.png">
 Players would be traveling in a boat when a mysterious entrance popped in front of them. 

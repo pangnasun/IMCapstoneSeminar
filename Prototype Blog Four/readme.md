@@ -13,22 +13,27 @@ I used existing to create a prototype of what the hidden sword and armor scene c
 <img src="images/entrance1.png">
 Players would be traveling in a boat when a mysterious entrance popped in front of them. 
 <br/><br/> 
+<br/><br/> 
 
 <img src="images/entrance2.png">
 Once players entered the entrance, they would be teleported to another place. In front of them stood another entrance. 
 <br/><br/> 
+<br/><br/> 
 
 <img src="images/entrance3.png">
 The doors would only open after players proved their worth. The method to determine their worthiness is a work in progress. 
+<br/><br/> 
 <br/><br/> 
 
 <img src="images/entrance4.png">
 <img src="images/entrance5.png">
 Players would then need to travel through the hall way to get to another entrance and enter a secret room. 
 <br/><br/> 
+<br/><br/> 
 
 <img src="images/secretRoom.png">
 Inside the secret, the magical sword and shield (armor) would present themselves in front of players. 
+<br/><br/>
 <br/><br/> 
 
 <img src="images/topView.png">

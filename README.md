@@ -11,7 +11,8 @@ During his third year in college, he pursued his passion for robotics by taking 
 
 Currently, he is working on his Interactive Media Capstone project. This project centers on creating a virtual place of a prominent monument called Angkor Wat, which is located in his hometown city. His aim is to virtually bring users back in time to this place through VR and to immerse them in his personal stories about this place, including myths and tales passed down to him by his elders. 
 
-Artist Statement:
+## Artist Statement:
+
 I always dream of giving lives to inanimate objects. Life is the greatest and the most magical of all mother nature’s creations. Thus, the thrill of inserting lives into lifeless objects is beyond measurable. It is impossible to know what it feels like to have the power to give lives to objects since such power seems unattainable. I remember how excited I was when I was able to make a servo motor move and make an LED lightbulb light up for the first time. If experiencing such a small portion of the power to give life brought so much joy, I could only imagine that having the full power would amplify that feeling by at least one thousandfold. 
 
 My quest to initiate lives started with a simple drawing machine. This device was put together by pieces of wood and servo motors connected to an Arduino. When different components of the drawing machine moved autonomously, but in accordance with the program executed by the Arduino, I started to ponder whether I brought this object to life. There was no denial how amazed I was to see this machine perform on its own, but this amazement died down as the device slowly came to a stop at the end of the program. I started to wonder: what does it take for an object to be alive? Is having autonomous motion enough? I came to realize that the answer is no. 

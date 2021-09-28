@@ -5,4 +5,4 @@
 
 
 
-<img src="images/entrance1.jpeg" width="800" height="421">
+<img src="images/entrance1.png" width="800" height="421">

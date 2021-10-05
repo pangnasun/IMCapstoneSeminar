@@ -6,7 +6,7 @@
 
 ## Phnom Kraom (The Upside-down Moutain)
 
-<img src="images/phnomkrom_field.jpeg" width="601" height="400" >
+<img src="images/phnomkrom_field.jpeg" width="620" height="413" >
 <img src="images/phnomkrom_top.jpeg" >
 
 

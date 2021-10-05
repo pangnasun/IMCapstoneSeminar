@@ -1,5 +1,5 @@
 # Prototype Four: Angkor Wat's Bas-Relief 
 
 ## War of Lanka
-<img src="images/battleOfLanka.png">
-<img src="images/monkeyarmy.png">
+<img src="images/battleOfLanka.jpeg">
+<img src="images/monkeyarmy.jpeg">

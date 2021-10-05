@@ -1,4 +1,4 @@
-# Prototype Four: Angkor Wat's Bas-Relief 
+# Prototype Five: Angkor Wat's Bas-Relief 
 
 ## Battle of Lanka
 <img src="images/battleOfLanka.jpeg" width="498" height="600">

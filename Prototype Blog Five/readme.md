@@ -1,9 +1,9 @@
 # Prototype Four: Angkor Wat's Bas-Relief 
 
-## War of Lanka
+## Battle of Lanka
 <img src="images/battleOfLanka.jpeg" width="498" height="600">
 
-Above is an image of a bas-relief on the wall of Angkor Wat. It shows the Battle of Lanka, which is a part of the ancient Hindu epic called *Ramayana*. The battle is fought so Prince Rama can rescue his wife, who is held in captive by the demon king Ravana (depicted in the bas-relief as a being with a thousand hands and a thousand arms). The battle is a clash between two great armies: Rama's army, which is consisted of people and monkeys, and Rava's army, which is consisted of demons. Thus, it respresents the clash between good and evil.
+Above is an image of a bas-relief on the wall of Angkor Wat. It shows the Battle of Lanka, which is a part of the ancient Hindu epic called *Ramayana*. The battle takes place at Lanka, the demon king's island, and is fought so Prince Rama can rescue his wife, who is held in captive by the demon king Ravana (depicted in the bas-relief as a being with a thousand hands and a thousand arms). The battle is a clash between two great armies: Rama's army, which is consisted of people and monkeys, and Rava's army, which is consisted of demons. Thus, it respresents the clash between good and evil.
 <br/><br/> 
 
 <img src="images/ramahanuman.jpeg">

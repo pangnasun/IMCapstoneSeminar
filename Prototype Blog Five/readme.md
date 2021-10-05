@@ -2,4 +2,4 @@
 
 ## War of Lanka
 <img src="images/battleOfLanka.jpeg">
-<img src="images/monkeyarmy.jpeg" width="900" height="675">
+<img src="images/monkeyarmy.jpeg" width="100" height="675">

@@ -14,7 +14,7 @@ Above is an image of a bas-relief on the wall of Angkor Wat. It shows the Battle
 
 ## Phnom Kraom (The Upside-down Moutain)
 
-Growing up, I have heard the origin story of Phnom Kraom told by my parents and elders for a countless number of time. The mountain is close to our house that we can see it if no trees are in our line of sight. I guess this is the reason why the story of this mountain comes up quite frequently. In addition, having a physical evidence to prove the legitimacy of a tale makes it easier to belived what is being told. 
+Growing up, I have heard the origin story of Phnom Kraom told by my parents and elders for a countless number of time. The mountain is close to our house that we can see it if no trees are in our line of sight. I guess this is the reason why the story of this mountain comes up quite frequently. In addition, having a physical evidence to prove the legitimacy of a tale makes it easier to belive what is being told. 
 
 <img src="images/phnomkrom_field.jpeg" width="620" height="413" >
 <img src="images/phnomkrom_top.jpeg" >

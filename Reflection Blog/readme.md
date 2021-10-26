@@ -1,7 +1,20 @@
 
 # Reflection on my Prototype Journey
 
-Since I wrote and submitted my Capstone Project proposal ideas, a lot of things have changed and a great deal of things stays the same. My ca
+Since I wrote and submitted my Capstone Project proposal ideas, a lot of things have changed and a great deal of things stays the same. My capstone project still focuses on creating a virtual reality of Angkor Wat and immersing people in myths and tales surrounding this place. However, in addition to mythology, I also plan to implement real-life stories into this VR place. As I was working on my prototypes, which mainly focus on the storytelling aspect of my project, I started to see the connection between myths and real-life stories told by my father. 
+
+I started my first prototype with creating a general layout of my project. Once I finished it and presented to my classmates, I felt that the space presented was too empty. Of course, the people were amazed and intrigue by the 3D model of Angkor Wat, but I could see in their eyes that they were wondering what are the events that will be happening. As I was presenting my first prototype to them, I tried to think of a story told to me by my elders. I could recall quite a few stories but it was hard to try to explain how those stories will fit in the flow of my project. Thus, my first prototype taught me to look into the narrative aspect of my project. 
+
+With that in mind, I built my second prototype with the most famous tale I heard about Angkor Wat. It is a tale of giant serpents that roamed around Angkor Wat in ancient time. I felt that giant serpents are always great monsters to be fought in video game and interactive projects. I also used images from existing project to show an animation of what people’s lives were like during that time. When I presented these to my peers, I felt that I had more substance to convey to them. People were curious about the serpents and how players will interact with them. The second prototype showed that I still have to work how these story pieces will fix together to form the main story.
+
+On my way to constructing my third prototype, a revelation occurred.  I was doing my normal Friday family Skyping when my father started to talk about Angkor Wat myths. I was hoping to ask them about these but instead they told me even before I mentioned anything about them. I couldn’t help but laugh to myself.  I started to wonder whether this happened all the time but I was not aware of it. Looking back, I realized that my parents and my grandmother told me these stories all the time. These tales became a part of my life that I did not even notice them. 
+
+Thus, a new idea sparked. Another approach to my project is showing how these tales affected me, my father, and other people around Angkor Wat as we are growing up. For instance, I proposed the idea of having an avatar of myself accompanying the players, so they can see me growing and changing as I face various stories together with me. I also hope to draw parallels between myths and real-life stories told by my father. For example, my father told me of a time when he barely escaped gunshots when a faceoff between soldiers and militants occurred. He told me this anecdote along with the myths to show me how his believes in ancient myths and magic kept him alive. I presented this connection to my advisor and I was so happy that he was able to make a connection to his father who lived through the World War. He said that we would not be able to imagine what they had gone through and what kept them alive. Maybe it’s the belief of living. 
+
+I also received many helpful feedbacks during my extended critique session. For instance, I have to decide how the players should be guided in the space. I want to show how the place and stories affected me, so I am still weighing how much does the players’ freedom affect my goal. 
+
+I got a chance to talk to Gaby and see her amazing project as well. I love how well the stories were told in her interactive project. I was also captivated by the music and choreography. This made me want to somehow include these elements in my project too. 
+
 
 
 
